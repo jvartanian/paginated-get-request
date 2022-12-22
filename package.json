@@ -1,0 +1,20 @@
+{
+  "name": "paginated-get-request",
+  "version": "1.0.0",
+  "description": "A Github Action to execute paginated GET requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvartanian/paginated-get-request.git"
+  },
+  "keywords": [],
+  "author": "Justin Vartanian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvartanian/paginated-get-request/issues"
+  },
+  "homepage": "https://github.com/jvartanian/paginated-get-request#readme"
+}
