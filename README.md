@@ -1,2 +1,2 @@
 # Paginated GET Request
-A Github Action to execute paginated GET requests.
+A GitHub Action to execute paginated GET requests and write the result to a file.

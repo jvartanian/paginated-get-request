@@ -1,7 +1,7 @@
 {
   "name": "paginated-get-request",
   "version": "1.0.0",
-  "description": "A Github Action to execute paginated GET requests.",
+  "description": "A GitHub Action to execute paginated GET requests and write the result to a file.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
