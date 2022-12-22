@@ -1,0 +1,11 @@
+name: 'Paginated GET Request'
+description: 'Execute paginated GET request and write the result to a file'
+inputs:
+  url:
+    description: 'The request URL'
+    required: true
+  output-file:
+    description: 'Absolute path of the output file'
+runs:
+  using: 'node16'
+  main: 'index.js'
